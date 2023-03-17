@@ -1,0 +1,168 @@
+@font-face {
+    font-family: "inter";
+    src: url(../fonts/inter.ttf);
+}
+
+* {
+    box-sizing: border-box;
+font-family: "inter";
+}
+
+body {
+    padding-top: 43px;
+    padding-bottom: 153px;
+}
+
+.table-1 caption {
+    margin-bottom: 0px;
+    margin-left: 0px;
+    text-align: start;
+}
+
+.table-1 th {
+font-weight: 700;
+font-size: 15px;
+line-height: 18.15px;
+color: #000;
+}
+
+.table-1 tr td, tr th  {
+    border: 1px solid rgba(218, 218, 218, 1);
+    border: none; 
+}
+
+.input1 {
+    width: 201px;
+}
+.input2 {
+    width: 593px;
+}
+.input3 {
+width: 201px;
+}
+
+
+table, td, th {
+    border: 1px solid rgba(218, 218, 218, 1);
+    border-collapse: collapse;
+}
+
+.table-1 input {
+    border: 1px solid  #E0E0E0;
+    border-radius: 10px;
+    height: 45px;
+    padding: auto;
+    padding-left: 16px;
+}
+
+.table-1 button {
+width: 115px;
+height: 45px;
+background-color: #FFD43A;
+font-weight: 500;
+font-size: 15px;
+line-height: 18.15px;
+color: #000000;
+}
+
+.table-1 th {
+    text-align: start;
+    vertical-align: bottom;
+    padding-left: 0px;
+}
+
+.table-data2{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table{
+    max-height: 627px;
+max-width: 1160px;
+font-size: 15px;
+text-align: center; 
+margin-top: 53px;
+}
+
+table th:nth-child(1) {
+    width: 72px;
+}
+table th:nth-child(2) {
+    width: 444px;
+    text-align: start;
+    padding-left: 23px;
+}
+table th:nth-child(3) {
+    width: 276px;
+}
+table th:nth-child(4) {
+    width: 368px;
+}
+    
+tr {
+    height: 57px;
+}
+
+button {
+    display: inline-block;
+    width: 115px;
+    height: 36px;
+    background-color: #E84949;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 11px; 
+    outline: 0;
+    border: none;
+    color: #FFFFFF;
+}
+
+thead {
+    font-weight: 700;
+    line-height: 18.15px;
+    background-color: #f9f9f9;
+}
+
+tbody {
+    font-weight: 500;
+    line-height: 18.15px;
+    background-color: #FFFFFF;
+}
+
+.colum {
+    text-align: start;
+    padding-left: 23px;
+}
+
+.box {
+    background-color: #FFD43A;
+    color: #000;
+}
+
+caption {
+    width: 152px;
+    height: 22px;
+    font-weight: 700;
+    font-size: 25px;
+line-height: 30.26px;
+margin-bottom: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
